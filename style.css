@@ -30,6 +30,10 @@ h3 {
   color: #96B6C5;
 }
 
+p {
+  padding: 30px;
+}
+
 a {
   color: #96B6C5;
   text-decoration: none;
